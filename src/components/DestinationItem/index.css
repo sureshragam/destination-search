@@ -1,0 +1,16 @@
+/* Write your CSS here */
+li {
+  width: 350px;
+  height: 350px;
+  list-style: none;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+li img {
+  width: 100%;
+  padding: 10px;
+}
+li p {
+  font-size: 20px;
+  text-align: center;
+}
